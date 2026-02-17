@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hamiltonplumbingco.com/sitemap.xml
